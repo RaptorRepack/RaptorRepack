@@ -1,6 +1,6 @@
 - 👋 Hi everyone how are you?
 
-- 👀 I’m interested for you?
+- 👀 You have interested for me?
 
 <!---
 RaptorRepack/RaptorRepack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
