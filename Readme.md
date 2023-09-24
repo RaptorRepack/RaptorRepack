@@ -2,7 +2,7 @@
 
 👀 You have interested for my repack software or tools?  
 
-👇 Please click or tap now any  repositories tabs item, choose your favorite items.
+👇 Please click or tap now any pinned repositories tab items, choose your favorite items.
 
 <!---
 RaptorRepack/RaptorRepack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
