@@ -1,8 +1,8 @@
-👋 Hi everyone how are you?
+👋 Hi Everyone How Are You?
 
-👀 You have interested for my repack software or toolkit?  
+👀 You Have Interested For My Repack Toolkit or Software?  
 
-👇 Please click or tap now any pinned repositories tab items, choose your favorite items.
+👇 Please Click or Tap Now Any Pinned Repositories Tab Items, Choose Your Favorite Items.
 
 <!---
 RaptorRepack/RaptorRepack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
